@@ -1,5 +1,5 @@
 <!--
-title:   Quarto(Reveal.js)でスライドのロゴとフッターをいい感じに設定できたメモ
+title:   Quarto(Reveal.js)でスライドのロゴとフッターをいい感じ(＝想定通り)に設定する為のメモ
 tags:    Quarto
 id:      c2a37c409f513a5aba0e
 private: false
