@@ -1,3 +1,7 @@
+# 使い方参考
+- [新しい記事の作成](https://qiita.com/ryokat3/items/d054b95f68810f70b136#%E6%96%B0%E3%81%97%E3%81%84%E8%A8%98%E4%BA%8B%E3%81%AE%E4%BD%9C%E6%88%90)
+- [記事の執筆に関して注意点](https://qiita.com/ryokat3/items/d054b95f68810f70b136#%E8%A8%98%E4%BA%8B%E3%81%AE%E5%9F%B7%E7%AD%86)
+
 # Qiita-Sync Template
 
 Template repository to synchronize markdown files with [Qiita](https://qiita.com/) site.
