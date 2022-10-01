@@ -1,7 +1,10 @@
 <!--
-title: Quarto(Reveal.js)でスライドのロゴとフッターをいい感じに設定できたメモ
-tags:  quarto
+title:   Quarto(Reveal.js)でスライドのロゴとフッターをいい感じに設定できたメモ
+tags:    Quarto
+id:      c2a37c409f513a5aba0e
+private: false
 -->
+
 
 # はじめに
 
