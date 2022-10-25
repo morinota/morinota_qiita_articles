@@ -192,6 +192,19 @@ contents...
 
 ![2022-09-03-17-25-06.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1697279/77aa0b45-daff-de7c-9212-a14b1b1ce25a.png)
 
+# Emojis
+
+.qmdファイルのYAML部に、以下のオプションを追加すればOKです。
+例えばmarkdown部で`:wave:`と打てば、:wave: に変換してくれます。
+使用可能なEmojisのリストは[ここ](https://gist.github.com/rxaviers/7360908)から参照できるみたい。
+というか、Emojisって世界共通なんですね...!
+
+```yml
+---
+from: markdown+emoji
+---
+```
+
 # おわりに
 
 今後もQuarto公式Documentを読みながら、自分の資料作成に使いつつ、適宜追加していきたいです。
