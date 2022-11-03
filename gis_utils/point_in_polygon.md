@@ -1,5 +1,5 @@
 <!--
-title:   「卓球競技団体戦における"ダブルスの勝敗"が"団体戦の勝敗"に与える因果効果を定量化したい」ステップ①Tリーグ試合データのスクレイピングによるデータセット作成
+title:   [Python × GIS]Polygonデータに含まれるPointデータの数をカウントするPointInPolygonクラスをgeopandasパッケージで実装してみた
 tags:    Python
 id:      4f5d0ec64c8a83cb482b
 private: false
