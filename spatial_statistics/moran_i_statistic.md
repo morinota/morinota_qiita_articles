@@ -1,7 +1,10 @@
 <!--
-title: [空間統計学] MoranのI統計量ををPythonのpysalで算出してみる
-tags: Python
+title:   [空間統計学] MoranのI統計量ををPythonのpysalで算出してみる
+tags:    Python
+id:      f1f69f3cd9c3f8d08880
+private: false
 -->
+
 
 # はじめに
 
